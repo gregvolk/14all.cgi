@@ -4,6 +4,8 @@ Front end for MRTG in RRDtool mode
 I am migrating this over from http://my14all.sourceforge.net/. The original author and maintainer is Rainer Bawidamann. Many thanks to him for creating and publshing 14all.cgi all those years ago. 
 I have made some modifications to 14all.cgi over the years, the most useful one being the addition of CSV export links below each graph. 
 
+You can see 14all.cgi in action at http://mrtg.gvolk.com
+
 -Greg Volk
 
 
